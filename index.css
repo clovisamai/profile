@@ -1,0 +1,145 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 650px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: 0;
+  margin-bottom: 50px;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 600px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px 0;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 81px 455px 0 30px;
+}
+
+.u-section-1 .u-text-2 {
+  font-family: Exo;
+  background-image: none;
+  line-height: 1;
+  font-weight: 900;
+  margin: 0 auto 0 30px;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 10px auto 0 30px;
+}
+
+.u-section-1 .u-text-4 {
+  margin: 20px auto 0 30px;
+}
+
+.u-section-1 .u-social-icons-1 {
+  height: 32px;
+  min-height: 16px;
+  width: 116px;
+  min-width: 68px;
+  margin: 10px 30px 0;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: none;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  background-image: none;
+  margin: 20px auto 0 30px;
+  padding: 8px 27px 8px 26px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 141px;
+  height: 141px;
+  margin: -100px 0 0 auto;
+}
+
+.u-section-1 .u-image-2 {
+  min-height: 600px;
+  background-image: url("images/FB_IMG_16324294391890621.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 545px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    position: relative;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 495px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 30px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 495px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 429px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 379px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 719px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 569px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 508px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 552px;
+    order: 1;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-top: 9px;
+    padding-bottom: 9px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 101px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: -461px;
+    margin-right: 10px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 358px;
+    order: 0;
+  }
+}
