@@ -27,8 +27,14 @@
   margin: 0 auto 0 30px;
 }
 
+.u-section-1 .u-image-1 {
+  width: 141px;
+  height: 141px;
+  margin: -189px 30px 0 auto;
+}
+
 .u-section-1 .u-text-3 {
-  margin: 10px auto 0 30px;
+  margin: 58px auto 0 30px;
 }
 
 .u-section-1 .u-text-4 {
@@ -38,24 +44,25 @@
 .u-section-1 .u-social-icons-1 {
   height: 32px;
   min-height: 16px;
-  width: 116px;
-  min-width: 68px;
+  width: 158px;
+  min-width: 94px;
   margin: 10px 30px 0;
 }
 
-.u-section-1 .u-btn-1 {
-  border-style: none;
-  text-transform: uppercase;
-  font-size: 0.875rem;
-  background-image: none;
-  margin: 20px auto 0 30px;
-  padding: 8px 27px 8px 26px;
+.u-section-1 .u-icon-1 {
+  color: rgb(17, 17, 17) !important;
 }
 
-.u-section-1 .u-image-1 {
-  width: 141px;
-  height: 141px;
-  margin: -100px 0 0 auto;
+.u-section-1 .u-icon-2 {
+  color: rgb(0, 0, 0) !important;
+}
+
+.u-section-1 .u-icon-3 {
+  height: 32px;
+}
+
+.u-section-1 .u-icon-4 {
+  height: 0;
 }
 
 .u-section-1 .u-image-2 {
@@ -81,8 +88,24 @@
     min-height: 495px;
   }
 
+  .u-section-1 .u-container-layout-1 {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
   .u-section-1 .u-text-1 {
+    margin-top: 111px;
     margin-right: 30px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 140px;
+    height: 140px;
+    margin-top: 55px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: -185px;
   }
 
   .u-section-1 .u-image-2 {
@@ -96,7 +119,18 @@
   }
 
   .u-section-1 .u-layout-cell-1 {
-    min-height: 100px;
+    min-height: 446px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 122px;
+    height: 122px;
+    margin-top: -250px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: 137px;
   }
 
   .u-section-1 .u-image-2 {
@@ -107,6 +141,18 @@
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
     min-height: 719px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 55px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: -185px;
   }
 
   .u-section-1 .u-image-2 {
@@ -134,8 +180,12 @@
   }
 
   .u-section-1 .u-image-1 {
-    margin-top: -461px;
+    margin-top: -256px;
     margin-right: 10px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: 125px;
   }
 
   .u-section-1 .u-image-2 {
